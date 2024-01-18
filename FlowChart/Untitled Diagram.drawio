@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T20:22:42.820Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="WFrYNWTxQtJegDwoGV_F" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T20:24:09.510Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="ysvHVgcmMUr82SS4IlaW" version="22.1.21" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1379" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2206" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4RdDnIFUJG62_YhEJyYF-15" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/iot/Event_Hubs.svg;" vertex="1" parent="1">
+          <mxGeometry x="240" y="290" width="67" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4RdDnIFUJG62_YhEJyYF-16" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/iot/Time_Series_Data_Sets.svg;" vertex="1" parent="1">
+          <mxGeometry x="388" y="420" width="51.2" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="4RdDnIFUJG62_YhEJyYF-17" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/iot/Digital_Twins.svg;" vertex="1" parent="1">
+          <mxGeometry x="470" y="230" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="4RdDnIFUJG62_YhEJyYF-18" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/iot/Logic_Apps.svg;" vertex="1" parent="1">
+          <mxGeometry x="620" y="130" width="67" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="4RdDnIFUJG62_YhEJyYF-19" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/iot/IoT_Central_Applications.svg;" vertex="1" parent="1">
+          <mxGeometry x="270" y="80" width="60" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="4RdDnIFUJG62_YhEJyYF-20" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/intune/Azure_AD_Roles_and_Administrators.svg;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="270" width="64" height="64" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
